@@ -1,0 +1,333 @@
+{
+  "artist": "Charlie Puth",
+  "title": "Attention",
+  "has_timed": true,
+  "timed_lyrics": [
+    {
+      "time": "00:04.66",
+      "seconds": 4.66,
+      "line": "Whoa-oh, hmm"
+    },
+    {
+      "time": "00:09.26",
+      "seconds": 9.26,
+      "line": "You've been running 'round, running 'round"
+    },
+    {
+      "time": "00:11.19",
+      "seconds": 11.19,
+      "line": "Running 'round, throwing that dirt all on my name"
+    },
+    {
+      "time": "00:14.12",
+      "seconds": 14.12,
+      "line": "'Cause you knew that I, knew that I"
+    },
+    {
+      "time": "00:15.78",
+      "seconds": 15.78,
+      "line": "Knew that I'd call you up"
+    },
+    {
+      "time": "00:18.89",
+      "seconds": 18.89,
+      "line": "You've been going 'round, going 'round"
+    },
+    {
+      "time": "00:20.76",
+      "seconds": 20.76,
+      "line": "Going 'round every party in LA"
+    },
+    {
+      "time": "00:23.53",
+      "seconds": 23.53,
+      "line": "'Cause you knew that I, knew that I"
+    },
+    {
+      "time": "00:25.33",
+      "seconds": 25.33,
+      "line": "Knew that I'd be at one"
+    },
+    {
+      "time": "00:28.74",
+      "seconds": 28.74,
+      "line": "I know that dress is karma, perfume regret"
+    },
+    {
+      "time": "00:33.17",
+      "seconds": 33.17,
+      "line": "You got me thinking 'bout when you were mine, oh"
+    },
+    {
+      "time": "00:38.45",
+      "seconds": 38.45,
+      "line": "And now I'm all upon you, what you expect?"
+    },
+    {
+      "time": "00:42.89",
+      "seconds": 42.89,
+      "line": "But you're not coming home with me tonight"
+    },
+    {
+      "time": "00:46.78",
+      "seconds": 46.78,
+      "line": "You just want attention; you don't want my heart"
+    },
+    {
+      "time": "00:51.43",
+      "seconds": 51.43,
+      "line": "Maybe you just hate the thought of me with someone new"
+    },
+    {
+      "time": "00:55.96",
+      "seconds": 55.96,
+      "line": "Yeah, you just want attention, I knew from the start"
+    },
+    {
+      "time": "01:00.90",
+      "seconds": 60.9,
+      "line": "You're just making sure I'm never getting over you, oh"
+    },
+    {
+      "time": "01:07.07",
+      "seconds": 67.07,
+      "line": "You've been running 'round, running 'round"
+    },
+    {
+      "time": "01:08.88",
+      "seconds": 68.88,
+      "line": "Running 'round, throwing that dirt all on my name"
+    },
+    {
+      "time": "01:11.61",
+      "seconds": 71.61,
+      "line": "'Cause you knew that I, knew that I"
+    },
+    {
+      "time": "01:13.47",
+      "seconds": 73.47,
+      "line": "Knew that I'd call you up"
+    },
+    {
+      "time": "01:16.20",
+      "seconds": 76.2,
+      "line": "Baby, now that we're, now that we're"
+    },
+    {
+      "time": "01:18.35",
+      "seconds": 78.35,
+      "line": "Now that we're right here standing face to face"
+    },
+    {
+      "time": "01:21.24",
+      "seconds": 81.24,
+      "line": "You already know, 'ready know"
+    },
+    {
+      "time": "01:22.75",
+      "seconds": 82.75,
+      "line": "'Ready know that you won, oh"
+    },
+    {
+      "time": "01:26.47",
+      "seconds": 86.47,
+      "line": "I know that dress is karma (Dress is karma)"
+    },
+    {
+      "time": "01:29.27",
+      "seconds": 89.27,
+      "line": "Perfume regret (Yeah)"
+    },
+    {
+      "time": "01:31.14",
+      "seconds": 91.14,
+      "line": "You got me thinking 'bout when you were mine"
+    },
+    {
+      "time": "01:33.87",
+      "seconds": 93.87,
+      "line": "You got me thinking 'bout when you were mine"
+    },
+    {
+      "time": "01:36.47",
+      "seconds": 96.47,
+      "line": "And now I'm all upon you (All upon you)"
+    },
+    {
+      "time": "01:38.88",
+      "seconds": 98.88,
+      "line": "What you expect? (Oh, baby)"
+    },
+    {
+      "time": "01:40.73",
+      "seconds": 100.73,
+      "line": "But you're not coming home with me tonight (Oh, no)"
+    },
+    {
+      "time": "01:44.13",
+      "seconds": 104.13,
+      "line": "You just want attention; you don't want my heart"
+    },
+    {
+      "time": "01:49.18",
+      "seconds": 109.18,
+      "line": "Maybe you just hate the thought of me with someone new ('one new)"
+    },
+    {
+      "time": "01:53.76",
+      "seconds": 113.76,
+      "line": "Yeah, you just want attention (Oh)"
+    },
+    {
+      "time": "01:56.22",
+      "seconds": 116.22,
+      "line": "I knew from the start (The start)"
+    },
+    {
+      "time": "01:58.67",
+      "seconds": 118.67,
+      "line": "You're just making sure I'm never getting over you, oh, you (Oh)"
+    },
+    {
+      "time": "02:04.82",
+      "seconds": 124.82,
+      "line": "What are you doing to me?"
+    },
+    {
+      "time": "02:07.26",
+      "seconds": 127.26,
+      "line": "What are you doing, love?"
+    },
+    {
+      "time": "02:09.10",
+      "seconds": 129.1,
+      "line": "What are you doing?"
+    },
+    {
+      "time": "02:10.27",
+      "seconds": 130.27,
+      "line": "What are you doing to me?"
+    },
+    {
+      "time": "02:12.03",
+      "seconds": 132.03,
+      "line": "What are you doing, love?"
+    },
+    {
+      "time": "02:13.86",
+      "seconds": 133.86,
+      "line": "What are you doing?"
+    },
+    {
+      "time": "02:15.06",
+      "seconds": 135.06,
+      "line": "What are you doing to me?"
+    },
+    {
+      "time": "02:16.62",
+      "seconds": 136.62,
+      "line": "What are you doing, love?"
+    },
+    {
+      "time": "02:18.70",
+      "seconds": 138.7,
+      "line": "What are you doing?"
+    },
+    {
+      "time": "02:19.93",
+      "seconds": 139.93,
+      "line": "What are you doing to me?"
+    },
+    {
+      "time": "02:21.52",
+      "seconds": 141.52,
+      "line": "What are you doing, love?"
+    },
+    {
+      "time": "02:24.07",
+      "seconds": 144.07,
+      "line": "I know that dress is karma, perfume regret"
+    },
+    {
+      "time": "02:28.52",
+      "seconds": 148.52,
+      "line": "You got me thinking 'bout when you were mine"
+    },
+    {
+      "time": "02:33.53",
+      "seconds": 153.53,
+      "line": "And now I'm all upon you, what you expect?"
+    },
+    {
+      "time": "02:38.14",
+      "seconds": 158.14,
+      "line": "But you're not coming home with me tonight"
+    },
+    {
+      "time": "02:44.03",
+      "seconds": 164.03,
+      "line": "You just want attention; you don't want my heart"
+    },
+    {
+      "time": "02:49.09",
+      "seconds": 169.09,
+      "line": "Maybe you just hate the thought of me with someone new"
+    },
+    {
+      "time": "02:53.59",
+      "seconds": 173.59,
+      "line": "Yeah, you just want attention, I knew from the start"
+    },
+    {
+      "time": "02:58.79",
+      "seconds": 178.79,
+      "line": "You're just making sure I'm never getting over you (Over you)"
+    },
+    {
+      "time": "03:04.96",
+      "seconds": 184.96,
+      "line": "What are you doing, to me? (Hey)"
+    },
+    {
+      "time": "03:07.26",
+      "seconds": 187.26,
+      "line": "What are you doing, love?"
+    },
+    {
+      "time": "03:08.93",
+      "seconds": 188.93,
+      "line": "What are you doing, love?"
+    },
+    {
+      "time": "03:10.34",
+      "seconds": 190.34,
+      "line": "What are you doing to me?"
+    },
+    {
+      "time": "03:11.94",
+      "seconds": 191.94,
+      "line": "What are you doing, love?"
+    },
+    {
+      "time": "03:13.32",
+      "seconds": 193.32,
+      "line": "Yeah, you just want attention"
+    },
+    {
+      "time": "03:15.37",
+      "seconds": 195.37,
+      "line": "I knew from the start"
+    },
+    {
+      "time": "03:17.88",
+      "seconds": 197.88,
+      "line": "You're just making sure I'm never getting over you, oh"
+    },
+    {
+      "time": "03:22.52",
+      "seconds": 202.52,
+      "line": ""
+    }
+  ],
+  "plain_lyrics": "Whoa-oh, hmm\n\nYou've been running 'round, running 'round\nRunning 'round, throwing that dirt all on my name\n'Cause you knew that I, knew that I\nKnew that I'd call you up\n\nYou've been going 'round, going 'round\nGoing 'round every party in LA\n'Cause you knew that I, knew that I\nKnew that I'd be at one\n\nI know that dress is karma, perfume regret\nYou got me thinking 'bout when you were mine, oh\nAnd now I'm all upon you, what you expect?\nBut you're not coming home with me tonight\n\nYou just want attention; you don't want my heart\nMaybe you just hate the thought of me with someone new\nYeah, you just want attention, I knew from the start\nYou're just making sure I'm never getting over you, oh\n\nYou've been running 'round, running 'round\nRunning 'round, throwing that dirt all on my name\n'Cause you knew that I, knew that I\nKnew that I'd call you up\n\nBaby, now that we're, now that we're\nNow that we're right here standing face to face\nYou already know, 'ready know\n'Ready know that you won, oh\n\nI know that dress is karma (Dress is karma)\nPerfume regret (Yeah)\nYou got me thinking 'bout when you were mine\nYou got me thinking 'bout when you were mine\n\nAnd now I'm all upon you (All upon you)\nWhat you expect? (Oh, baby)\nBut you're not coming home with me tonight (Oh, no)\n\nYou just want attention; you don't want my heart\nMaybe you just hate the thought of me with someone new ('one new)\nYeah, you just want attention (Oh)\nI knew from the start (The start)\nYou're just making sure I'm never getting over you, oh, you (Oh)\n\nWhat are you doing to me?\nWhat are you doing, love?\nWhat are you doing?\nWhat are you doing to me?\nWhat are you doing, love?\nWhat are you doing?\n\nWhat are you doing to me?\nWhat are you doing, love?\nWhat are you doing?\nWhat are you doing to me?\nWhat are you doing, love?\n\nI know that dress is karma, perfume regret\nYou got me thinking 'bout when you were mine\nAnd now I'm all upon you, what you expect?\nBut you're not coming home with me tonight\n\nYou just want attention; you don't want my heart\nMaybe you just hate the thought of me with someone new\nYeah, you just want attention, I knew from the start\nYou're just making sure I'm never getting over you (Over you)\n\nWhat are you doing, to me? (Hey)\nWhat are you doing, love?\nWhat are you doing, love?\nWhat are you doing to me?\nWhat are you doing, love?\n\nYeah, you just want attention\nI knew from the start\nYou're just making sure I'm never getting over you, oh"
+}

@@ -1,0 +1,288 @@
+{
+  "artist": "Yo Yo Honey Singh",
+  "title": "Lungi Dance",
+  "has_timed": true,
+  "timed_lyrics": [
+    {
+      "time": "00:02.20",
+      "seconds": 2.2,
+      "line": "This is the tribute to thalaivar"
+    },
+    {
+      "time": "00:05.62",
+      "seconds": 5.62,
+      "line": "From king khan"
+    },
+    {
+      "time": "00:08.10",
+      "seconds": 8.1,
+      "line": "And one and only"
+    },
+    {
+      "time": "00:09.93",
+      "seconds": 9.93,
+      "line": "Yo yo honey singh!"
+    },
+    {
+      "time": "00:12.56",
+      "seconds": 12.56,
+      "line": "Moochhon ko thoda round ghumake"
+    },
+    {
+      "time": "00:15.42",
+      "seconds": 15.42,
+      "line": "Anna ke jaisa chashma lagake"
+    },
+    {
+      "time": "00:18.32",
+      "seconds": 18.32,
+      "line": "Coconut me lassi milake"
+    },
+    {
+      "time": "00:21.21",
+      "seconds": 21.21,
+      "line": "Aa jaao sare mood banake (x2)"
+    },
+    {
+      "time": "00:36.04",
+      "seconds": 36.04,
+      "line": "All the rajini fans - thalaivar"
+    },
+    {
+      "time": "00:38.88",
+      "seconds": 38.88,
+      "line": "Don't miss the chance - thalaivar"
+    },
+    {
+      "time": "00:41.75",
+      "seconds": 41.75,
+      "line": "All the rajini fans - thalaivar"
+    },
+    {
+      "time": "00:44.57",
+      "seconds": 44.57,
+      "line": "Don't miss the chance - do this!"
+    },
+    {
+      "time": "00:47.46",
+      "seconds": 47.46,
+      "line": "Lungi dance, lungi dance..."
+    },
+    {
+      "time": "00:59.12",
+      "seconds": 59.12,
+      "line": "Jado jawaani bada jor si ve jaalma"
+    },
+    {
+      "time": "01:04.83",
+      "seconds": 64.83,
+      "line": "Main taa rajini da fan si ve jaalma (x2)"
+    },
+    {
+      "time": "01:22.69",
+      "seconds": 82.69,
+      "line": "Disco me jab ye gana bajega"
+    },
+    {
+      "time": "01:25.69",
+      "seconds": 85.69,
+      "line": "On the floor aana padega"
+    },
+    {
+      "time": "01:28.60",
+      "seconds": 88.6,
+      "line": "Lungi ko uthana padega"
+    },
+    {
+      "time": "01:31.43",
+      "seconds": 91.43,
+      "line": "Step karke dikhana padega (x2)"
+    },
+    {
+      "time": "01:46.19",
+      "seconds": 106.19,
+      "line": "All the rajini fans - thalaivar"
+    },
+    {
+      "time": "01:49.13",
+      "seconds": 109.13,
+      "line": "Don't miss the chance - thalaivar"
+    },
+    {
+      "time": "01:52.05",
+      "seconds": 112.05,
+      "line": "All the rajini fans - thalaivar"
+    },
+    {
+      "time": "01:54.99",
+      "seconds": 114.99,
+      "line": "Don't miss the chance - do this"
+    },
+    {
+      "time": "01:57.67",
+      "seconds": 117.67,
+      "line": "Lungi dance, lungi dance..."
+    },
+    {
+      "time": "02:09.85",
+      "seconds": 129.85,
+      "line": "Night club mai aaya, mai toh"
+    },
+    {
+      "time": "02:12.48",
+      "seconds": 132.48,
+      "line": "Mujhko rokega kon aur kaiko"
+    },
+    {
+      "time": "02:15.43",
+      "seconds": 135.43,
+      "line": "Maira mood mai dance karega"
+    },
+    {
+      "time": "02:18.31",
+      "seconds": 138.31,
+      "line": "Kisika daddy sai ni darega"
+    },
+    {
+      "time": "02:21.28",
+      "seconds": 141.28,
+      "line": "Jisko jo bi hai wo karna wo kar lo"
+    },
+    {
+      "time": "02:24.06",
+      "seconds": 144.06,
+      "line": "Idhar hi hoon mai khada pakad lo"
+    },
+    {
+      "time": "02:27.07",
+      "seconds": 147.07,
+      "line": "Ghar pe jaake tum google kar lo"
+    },
+    {
+      "time": "02:29.70",
+      "seconds": 149.7,
+      "line": "Mere bare me wikipedia pe padh lo"
+    },
+    {
+      "time": "02:32.72",
+      "seconds": 152.72,
+      "line": "Lungi dance, lungi dance..."
+    },
+    {
+      "time": "02:44.44",
+      "seconds": 164.44,
+      "line": "Kon mujhsa hai kon"
+    },
+    {
+      "time": "02:47.11",
+      "seconds": 167.11,
+      "line": "Oh baby yes i am a don"
+    },
+    {
+      "time": "02:49.97",
+      "seconds": 169.97,
+      "line": "Nahi milega mujhsa go find it!"
+    },
+    {
+      "time": "02:52.81",
+      "seconds": 172.81,
+      "line": "Don't angry me, mind it!"
+    },
+    {
+      "time": "02:56.18",
+      "seconds": 176.18,
+      "line": "Arey mere jaise dance kisko aata hai"
+    },
+    {
+      "time": "02:58.96",
+      "seconds": 178.96,
+      "line": "Choreographer ko mai hi sikhata hai"
+    },
+    {
+      "time": "03:01.84",
+      "seconds": 181.84,
+      "line": "Woh ghar pe aata hai"
+    },
+    {
+      "time": "03:03.78",
+      "seconds": 183.78,
+      "line": "Mujhse seekh ke jaata hai"
+    },
+    {
+      "time": "03:05.06",
+      "seconds": 185.06,
+      "line": "Mujhse seekh ke woh logo ko sikhata hai"
+    },
+    {
+      "time": "03:07.93",
+      "seconds": 187.93,
+      "line": "Lungi dance, lungi dance..."
+    },
+    {
+      "time": "03:19.90",
+      "seconds": 199.9,
+      "line": "Moochhon ko thoda round ghumake"
+    },
+    {
+      "time": "03:22.73",
+      "seconds": 202.73,
+      "line": "Anna ke jaisa chashma lagake"
+    },
+    {
+      "time": "03:25.59",
+      "seconds": 205.59,
+      "line": "Coconut me lassi milake"
+    },
+    {
+      "time": "03:28.38",
+      "seconds": 208.38,
+      "line": "Aa jaao sare mood banake (x2)"
+    },
+    {
+      "time": "03:43.25",
+      "seconds": 223.25,
+      "line": "All the rajini fans - thalaivar"
+    },
+    {
+      "time": "03:46.20",
+      "seconds": 226.2,
+      "line": "Don't miss the chance - thalaivar"
+    },
+    {
+      "time": "03:48.90",
+      "seconds": 228.9,
+      "line": "All the rajini fans - thalaivar"
+    },
+    {
+      "time": "03:51.94",
+      "seconds": 231.94,
+      "line": "Don't miss the chance - do this!"
+    },
+    {
+      "time": "03:54.75",
+      "seconds": 234.75,
+      "line": "Lungi dance, lungi dance..."
+    },
+    {
+      "time": "04:17.12",
+      "seconds": 257.12,
+      "line": "Yo yo honey singh!"
+    },
+    {
+      "time": "04:20.37",
+      "seconds": 260.37,
+      "line": "King khan"
+    },
+    {
+      "time": "04:23.11",
+      "seconds": 263.11,
+      "line": "Chennai express"
+    },
+    {
+      "time": "04:27.78",
+      "seconds": 267.78,
+      "line": ""
+    }
+  ],
+  "plain_lyrics": "[offset:-6102]\r\n\r\nThis is the tribute to thalaivar\r\nFrom king khan\r\nAnd one and only\r\nYo yo honey singh!\r\nMoochhon ko thoda round ghumake\r\nAnna ke jaisa chashma lagake\r\nCoconut me lassi milake\r\nAa jaao sare mood banake (x2)\r\nAll the rajini fans - thalaivar\r\nDon't miss the chance - thalaivar\r\nAll the rajini fans - thalaivar\r\nDon't miss the chance - do this!\r\nLungi dance, lungi dance...\r\nJado jawaani bada jor si ve jaalma\r\nMain taa rajini da fan si ve jaalma (x2)\r\nDisco me jab ye gana bajega\r\nOn the floor aana padega\r\nLungi ko uthana padega\r\nStep karke dikhana padega (x2)\r\nAll the rajini fans - thalaivar\r\nDon't miss the chance - thalaivar\r\nAll the rajini fans - thalaivar\r\nDon't miss the chance - do this\r\nLungi dance, lungi dance...\r\nNight club mai aaya, mai toh\r\nMujhko rokega kon aur kaiko\r\nMaira mood mai dance karega\r\nKisika daddy sai ni darega\r\nJisko jo bi hai wo karna wo kar lo\r\nIdhar hi hoon mai khada pakad lo\r\nGhar pe jaake tum google kar lo\r\nMere bare me wikipedia pe padh lo\r\nLungi dance, lungi dance...\r\nKon mujhsa hai kon\r\nOh baby yes i am a don\r\nNahi milega mujhsa go find it!\r\nDon't angry me, mind it!\r\nArey mere jaise dance kisko aata hai\r\nChoreographer ko mai hi sikhata hai\r\nWoh ghar pe aata hai\r\nMujhse seekh ke jaata hai\r\nMujhse seekh ke woh logo ko sikhata hai\r\nLungi dance, lungi dance...\r\nMoochhon ko thoda round ghumake\r\nAnna ke jaisa chashma lagake\r\nCoconut me lassi milake\r\nAa jaao sare mood banake (x2)\r\nAll the rajini fans - thalaivar\r\nDon't miss the chance - thalaivar\r\nAll the rajini fans - thalaivar\r\nDon't miss the chance - do this!\r\nLungi dance, lungi dance...\r\nYo yo honey singh!\r\nKing khan\r\nChennai express\r\n \r\n \r\n \r\n"
+}
