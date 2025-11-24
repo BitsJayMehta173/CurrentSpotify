@@ -1,0 +1,413 @@
+{
+  "artist": "Charlie Puth",
+  "title": "We Don't Talk Anymore",
+  "has_timed": true,
+  "timed_lyrics": [
+    {
+      "time": "00:00.12",
+      "seconds": 0.12,
+      "line": "We don't talk anymore"
+    },
+    {
+      "time": "00:02.75",
+      "seconds": 2.75,
+      "line": "We don't talk anymore"
+    },
+    {
+      "time": "00:05.06",
+      "seconds": 5.06,
+      "line": "We don't talk anymore"
+    },
+    {
+      "time": "00:06.81",
+      "seconds": 6.81,
+      "line": "Like we used to do"
+    },
+    {
+      "time": "00:10.05",
+      "seconds": 10.05,
+      "line": "We don't love anymore"
+    },
+    {
+      "time": "00:12.35",
+      "seconds": 12.35,
+      "line": "What was all of it for?"
+    },
+    {
+      "time": "00:14.43",
+      "seconds": 14.43,
+      "line": "Oh, we don't talk anymore"
+    },
+    {
+      "time": "00:16.38",
+      "seconds": 16.38,
+      "line": "Like we used to do"
+    },
+    {
+      "time": "00:19.54",
+      "seconds": 19.54,
+      "line": "I just heard you found the one you've been looking"
+    },
+    {
+      "time": "00:22.89",
+      "seconds": 22.89,
+      "line": "You've been looking for"
+    },
+    {
+      "time": "00:25.42",
+      "seconds": 25.42,
+      "line": "I wish I would have known that wasn't me"
+    },
+    {
+      "time": "00:29.14",
+      "seconds": 29.14,
+      "line": "'Cause even after all this time I still wonder"
+    },
+    {
+      "time": "00:32.58",
+      "seconds": 32.58,
+      "line": "Why I can't move on"
+    },
+    {
+      "time": "00:35.15",
+      "seconds": 35.15,
+      "line": "Just the way you did so easily?"
+    },
+    {
+      "time": "00:39.03",
+      "seconds": 39.03,
+      "line": "Don't wanna know"
+    },
+    {
+      "time": "00:40.93",
+      "seconds": 40.93,
+      "line": "What kind of dress you're wearing tonight"
+    },
+    {
+      "time": "00:43.28",
+      "seconds": 43.28,
+      "line": "If he's holding onto you so tight"
+    },
+    {
+      "time": "00:45.75",
+      "seconds": 45.75,
+      "line": "The way I did before"
+    },
+    {
+      "time": "00:48.65",
+      "seconds": 48.65,
+      "line": "I overdosed"
+    },
+    {
+      "time": "00:50.58",
+      "seconds": 50.58,
+      "line": "Should've known your love was a game"
+    },
+    {
+      "time": "00:52.82",
+      "seconds": 52.82,
+      "line": "Now I can't get you out of my brain"
+    },
+    {
+      "time": "00:55.31",
+      "seconds": 55.31,
+      "line": "Oh, it's such a shame"
+    },
+    {
+      "time": "00:58.01",
+      "seconds": 58.01,
+      "line": "That we don't talk anymore"
+    },
+    {
+      "time": "01:00.34",
+      "seconds": 60.34,
+      "line": "We don't talk anymore"
+    },
+    {
+      "time": "01:02.66",
+      "seconds": 62.66,
+      "line": "We don't talk anymore"
+    },
+    {
+      "time": "01:04.42",
+      "seconds": 64.42,
+      "line": "Like we used to do"
+    },
+    {
+      "time": "01:07.52",
+      "seconds": 67.52,
+      "line": "We don't love anymore"
+    },
+    {
+      "time": "01:09.84",
+      "seconds": 69.84,
+      "line": "What was all of it for?"
+    },
+    {
+      "time": "01:12.01",
+      "seconds": 72.01,
+      "line": "Oh, we don't talk anymore"
+    },
+    {
+      "time": "01:14.07",
+      "seconds": 74.07,
+      "line": "Like we used to do"
+    },
+    {
+      "time": "01:17.12",
+      "seconds": 77.12,
+      "line": "I just hope you're lying next to somebody"
+    },
+    {
+      "time": "01:20.43",
+      "seconds": 80.43,
+      "line": "Who knows how to love you like me"
+    },
+    {
+      "time": "01:23.03",
+      "seconds": 83.03,
+      "line": "There must be a good reason that you're gone"
+    },
+    {
+      "time": "01:26.78",
+      "seconds": 86.78,
+      "line": "Every now and then I think you"
+    },
+    {
+      "time": "01:29.25",
+      "seconds": 89.25,
+      "line": "Might want me to come show up at your door"
+    },
+    {
+      "time": "01:32.59",
+      "seconds": 92.59,
+      "line": "But I'm just too afraid that I'll be wrong"
+    },
+    {
+      "time": "01:36.54",
+      "seconds": 96.53999999999999,
+      "line": "Don't wanna know"
+    },
+    {
+      "time": "01:38.49",
+      "seconds": 98.49000000000001,
+      "line": "If you're looking into her eyes"
+    },
+    {
+      "time": "01:41.07",
+      "seconds": 101.07,
+      "line": "If she's holding onto you so tight"
+    },
+    {
+      "time": "01:43.49",
+      "seconds": 103.49000000000001,
+      "line": "The way I did before"
+    },
+    {
+      "time": "01:46.18",
+      "seconds": 106.18,
+      "line": "I overdosed"
+    },
+    {
+      "time": "01:48.20",
+      "seconds": 108.2,
+      "line": "Should've known your love was a game"
+    },
+    {
+      "time": "01:50.43",
+      "seconds": 110.43,
+      "line": "Now I can't get you out of my brain"
+    },
+    {
+      "time": "01:52.97",
+      "seconds": 112.97,
+      "line": "Ooh, it's such a shame"
+    },
+    {
+      "time": "01:55.66",
+      "seconds": 115.66,
+      "line": "That we don't talk anymore (we don't, we don't)"
+    },
+    {
+      "time": "01:58.26",
+      "seconds": 118.25999999999999,
+      "line": "We don't talk anymore (we don't, we don't)"
+    },
+    {
+      "time": "02:00.41",
+      "seconds": 120.41,
+      "line": "We don't talk anymore"
+    },
+    {
+      "time": "02:01.94",
+      "seconds": 121.94,
+      "line": "Like we used to do"
+    },
+    {
+      "time": "02:05.12",
+      "seconds": 125.12,
+      "line": "We don't love anymore (we don't, we don't)"
+    },
+    {
+      "time": "02:07.67",
+      "seconds": 127.67,
+      "line": "What was all of it for? (We don't, we don't)"
+    },
+    {
+      "time": "02:10.01",
+      "seconds": 130.01,
+      "line": "Oh, we don't talk anymore"
+    },
+    {
+      "time": "02:11.65",
+      "seconds": 131.65,
+      "line": "Like we used to do"
+    },
+    {
+      "time": "02:15.33",
+      "seconds": 135.33,
+      "line": ""
+    },
+    {
+      "time": "02:23.88",
+      "seconds": 143.88,
+      "line": "Like we used to do"
+    },
+    {
+      "time": "02:29.76",
+      "seconds": 149.76,
+      "line": ""
+    },
+    {
+      "time": "02:34.33",
+      "seconds": 154.32999999999998,
+      "line": "Don't wanna know"
+    },
+    {
+      "time": "02:36.09",
+      "seconds": 156.09,
+      "line": "What kind of dress you're wearing tonight"
+    },
+    {
+      "time": "02:38.35",
+      "seconds": 158.35,
+      "line": "If he's giving it to you just right"
+    },
+    {
+      "time": "02:40.87",
+      "seconds": 160.87,
+      "line": "The way I did before"
+    },
+    {
+      "time": "02:43.81",
+      "seconds": 163.81,
+      "line": "I overdosed"
+    },
+    {
+      "time": "02:45.78",
+      "seconds": 165.78,
+      "line": "Should've known your love was a game"
+    },
+    {
+      "time": "02:48.07",
+      "seconds": 168.07,
+      "line": "Now I can't get you out of my brain"
+    },
+    {
+      "time": "02:50.59",
+      "seconds": 170.59,
+      "line": "Oh, it's such a shame"
+    },
+    {
+      "time": "02:53.21",
+      "seconds": 173.21,
+      "line": "That we don't talk anymore (we don't, we don't)"
+    },
+    {
+      "time": "02:55.70",
+      "seconds": 175.7,
+      "line": "We don't talk anymore (we don't, we don't)"
+    },
+    {
+      "time": "02:57.92",
+      "seconds": 177.92000000000002,
+      "line": "We don't talk anymore"
+    },
+    {
+      "time": "02:59.59",
+      "seconds": 179.59,
+      "line": "Like we used to do"
+    },
+    {
+      "time": "03:02.76",
+      "seconds": 182.76,
+      "line": "We don't love anymore (we don't, we don't)"
+    },
+    {
+      "time": "03:05.22",
+      "seconds": 185.22,
+      "line": "What was all of it for? (we don't, we don't)"
+    },
+    {
+      "time": "03:07.63",
+      "seconds": 187.63,
+      "line": "Oh, we don't talk anymore"
+    },
+    {
+      "time": "03:09.15",
+      "seconds": 189.15,
+      "line": "Like we used to do"
+    },
+    {
+      "time": "03:12.50",
+      "seconds": 192.5,
+      "line": "(We don't talk anymore) Don't wanna know"
+    },
+    {
+      "time": "03:14.21",
+      "seconds": 194.21,
+      "line": "What kind of dress you're wearing tonight (oh)"
+    },
+    {
+      "time": "03:16.94",
+      "seconds": 196.94,
+      "line": "If he's holding onto you so tight (oh)"
+    },
+    {
+      "time": "03:19.30",
+      "seconds": 199.3,
+      "line": "The way I did before"
+    },
+    {
+      "time": "03:21.94",
+      "seconds": 201.94,
+      "line": "(We don't talk anymore) I overdosed"
+    },
+    {
+      "time": "03:24.42",
+      "seconds": 204.42000000000002,
+      "line": "Should've known your love was a game (oh)"
+    },
+    {
+      "time": "03:26.47",
+      "seconds": 206.47,
+      "line": "Now I can't get you out of my brain (woah)"
+    },
+    {
+      "time": "03:28.81",
+      "seconds": 208.81,
+      "line": "Ooh, it's such a shame"
+    },
+    {
+      "time": "03:31.63",
+      "seconds": 211.63,
+      "line": "We don't talk anymore"
+    },
+    {
+      "time": "03:32.70",
+      "seconds": 212.7,
+      "line": ""
+    }
+  ],
+  "plain_lyrics": "We don't talk anymore\nWe don't talk anymore\nWe don't talk anymore\nLike we used to do\nWe don't love anymore\nWhat was all of it for?\nOh, we don't talk anymore\nLike we used to do\n\nI just heard you found the one you've been looking\nYou've been looking for\nI wish I would have known that wasn't me\n'Cause even after all this time I still wonder\nWhy I can't move on\nJust the way you did so easily?\n\nDon't wanna know\nWhat kind of dress you're wearing tonight\nIf he's holding onto you so tight\nThe way I did before\nI overdosed\nShould've known your love was a game\nNow I can't get you out of my brain\nOh, it's such a shame\n\nThat we don't talk anymore\nWe don't talk anymore\nWe don't talk anymore\nLike we used to do\nWe don't love anymore\nWhat was all of it for?\nOh, we don't talk anymore\nLike we used to do\n\nI just hope you're lying next to somebody\nWho knows how to love you like me\nThere must be a good reason that you're gone\nEvery now and then I think you\nMight want me to come show up at your door\nBut I'm just too afraid that I'll be wrong\n\nDon't wanna know\nIf you're looking into her eyes\nIf she's holding onto you so tight\nThe way I did before\nI overdosed\nShould've known your love was a game\nNow I can't get you out of my brain\nOoh, it's such a shame\n\nThat we don't talk anymore (we don't, we don't)\nWe don't talk anymore (we don't, we don't)\nWe don't talk anymore\nLike we used to do\nWe don't love anymore (we don't, we don't)\nWhat was all of it for? (We don't, we don't)\nOh, we don't talk anymore\nLike we used to do\n\nLike we used to do\n\nDon't wanna know\nWhat kind of dress you're wearing tonight\nIf he's giving it to you just right\nThe way I did before\nI overdosed\nShould've known your love was a game\nNow I can't get you out of my brain\nOh, it's such a shame\n\nThat we don't talk anymore (we don't, we don't)\nWe don't talk anymore (we don't, we don't)\nWe don't talk anymore\nLike we used to do\nWe don't love anymore (we don't, we don't)\nWhat was all of it for? (we don't, we don't)\nOh, we don't talk anymore\nLike we used to do\n\n(We don't talk anymore) Don't wanna know\nWhat kind of dress you're wearing tonight (oh)\nIf he's holding onto you so tight (oh)\nThe way I did before\n(We don't talk anymore) I overdosed\nShould've known your love was a game (oh)\nNow I can't get you out of my brain (woah)\nOoh, it's such a shame\nWe don't talk anymore"
+}
