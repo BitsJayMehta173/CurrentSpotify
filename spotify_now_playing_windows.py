@@ -1,17 +1,4 @@
 #!/usr/bin/env python3
-"""
-spotify_with_lyrics_final.py
-Unified Spotify tracker + lyrics fetcher + converter + synced console display.
-
-Requirements:
-    pip install requests flask rapidfuzz
-
-Notes:
- - Configure CLIENT_ID (Spotify app) before use.
- - Uses PKCE auth with local Flask redirect (http://127.0.0.1:8888/callback).
- - Saves session to spotify_session.json so users won't reauthorize frequently.
- - Lyrics saved to lyrics_cache/<Artist> - <Title>.json
-"""
 
 import os
 import re
