@@ -1,0 +1,398 @@
+{
+  "artist": "The Weeknd, Daft Punk",
+  "title": "Starboy",
+  "has_timed": true,
+  "timed_lyrics": [
+    {
+      "time": "00:16.38",
+      "seconds": 16.38,
+      "line": "I'm tryna put you in the worst mood, ah"
+    },
+    {
+      "time": "00:18.83",
+      "seconds": 18.83,
+      "line": "P1 cleaner than your church shoes, ah"
+    },
+    {
+      "time": "00:21.53",
+      "seconds": 21.53,
+      "line": "Milli point two just to hurt you, ah"
+    },
+    {
+      "time": "00:24.18",
+      "seconds": 24.18,
+      "line": "All red Lamb' just to tease you, ah"
+    },
+    {
+      "time": "00:26.56",
+      "seconds": 26.56,
+      "line": "None of these toys on lease too, ah"
+    },
+    {
+      "time": "00:29.12",
+      "seconds": 29.12,
+      "line": "Made your whole year in a week too, yah"
+    },
+    {
+      "time": "00:31.67",
+      "seconds": 31.67,
+      "line": "Main bitch out your league too, ah"
+    },
+    {
+      "time": "00:34.22",
+      "seconds": 34.22,
+      "line": "Side bitch out of your league too, ah"
+    },
+    {
+      "time": "00:37.26",
+      "seconds": 37.26,
+      "line": "House so empty, need a centerpiece"
+    },
+    {
+      "time": "00:39.50",
+      "seconds": 39.5,
+      "line": "20 racks a table cut from ebony"
+    },
+    {
+      "time": "00:42.17",
+      "seconds": 42.17,
+      "line": "Cut that ivory into skinny pieces"
+    },
+    {
+      "time": "00:44.53",
+      "seconds": 44.53,
+      "line": "Then she clean it with her face man I love my baby"
+    },
+    {
+      "time": "00:47.26",
+      "seconds": 47.26,
+      "line": "You talking money, need a hearing aid"
+    },
+    {
+      "time": "00:50.16",
+      "seconds": 50.16,
+      "line": "You talking bout me, I don't see the shade"
+    },
+    {
+      "time": "00:52.71",
+      "seconds": 52.71,
+      "line": "Switch up my style, I take any lane"
+    },
+    {
+      "time": "00:55.09",
+      "seconds": 55.09,
+      "line": "I switch up my cup, I kill any pain"
+    },
+    {
+      "time": "00:58.69",
+      "seconds": 58.69,
+      "line": ""
+    },
+    {
+      "time": "01:01.13",
+      "seconds": 61.13,
+      "line": "Look what you've done"
+    },
+    {
+      "time": "01:04.11",
+      "seconds": 64.11,
+      "line": ""
+    },
+    {
+      "time": "01:06.22",
+      "seconds": 66.22,
+      "line": "I'm a motherfuckin' starboy"
+    },
+    {
+      "time": "01:09.20",
+      "seconds": 69.2,
+      "line": ""
+    },
+    {
+      "time": "01:11.67",
+      "seconds": 71.67,
+      "line": "Look what you've done"
+    },
+    {
+      "time": "01:14.59",
+      "seconds": 74.59,
+      "line": ""
+    },
+    {
+      "time": "01:16.62",
+      "seconds": 76.62,
+      "line": "I'm a motherfuckin' starboy"
+    },
+    {
+      "time": "01:18.43",
+      "seconds": 78.43,
+      "line": "Every day a nigga try to test me, ah"
+    },
+    {
+      "time": "01:20.64",
+      "seconds": 80.64,
+      "line": "Every day a nigga try to end me, ah"
+    },
+    {
+      "time": "01:23.23",
+      "seconds": 83.23,
+      "line": "Pull off in that Roadster SV, ah"
+    },
+    {
+      "time": "01:25.99",
+      "seconds": 85.99,
+      "line": "Pockets overweight, gettin' hefty, ah"
+    },
+    {
+      "time": "01:28.49",
+      "seconds": 88.49,
+      "line": "Coming for the king, that's a far cry, ah"
+    },
+    {
+      "time": "01:31.09",
+      "seconds": 91.09,
+      "line": "I come alive in the fall time, I"
+    },
+    {
+      "time": "01:33.86",
+      "seconds": 93.86,
+      "line": "No competition, I don't really listen"
+    },
+    {
+      "time": "01:35.96",
+      "seconds": 95.96000000000001,
+      "line": "I'm in the blue Mulsanne bumping New Edition"
+    },
+    {
+      "time": "01:38.93",
+      "seconds": 98.93,
+      "line": "House so empty, need a centerpiece"
+    },
+    {
+      "time": "01:41.44",
+      "seconds": 101.44,
+      "line": "20 racks a table cut from ebony"
+    },
+    {
+      "time": "01:44.04",
+      "seconds": 104.03999999999999,
+      "line": "Cut that ivory into skinny pieces"
+    },
+    {
+      "time": "01:46.42",
+      "seconds": 106.42,
+      "line": "Then she clean it with her face man I love my baby"
+    },
+    {
+      "time": "01:49.57",
+      "seconds": 109.57,
+      "line": "You talking money, need a hearing aid"
+    },
+    {
+      "time": "01:51.88",
+      "seconds": 111.88,
+      "line": "You talking bout me, I don't see the shade"
+    },
+    {
+      "time": "01:54.50",
+      "seconds": 114.5,
+      "line": "Switch up my style, I take any lane"
+    },
+    {
+      "time": "01:56.74",
+      "seconds": 116.74000000000001,
+      "line": "I switch up my cup, I kill any pain"
+    },
+    {
+      "time": "02:00.74",
+      "seconds": 120.74,
+      "line": ""
+    },
+    {
+      "time": "02:03.00",
+      "seconds": 123.0,
+      "line": "Look what you've done"
+    },
+    {
+      "time": "02:05.81",
+      "seconds": 125.81,
+      "line": ""
+    },
+    {
+      "time": "02:08.27",
+      "seconds": 128.27,
+      "line": "I'm a motherfuckin' starboy"
+    },
+    {
+      "time": "02:11.24",
+      "seconds": 131.24,
+      "line": ""
+    },
+    {
+      "time": "02:13.47",
+      "seconds": 133.47,
+      "line": "Look what you've done"
+    },
+    {
+      "time": "02:18.48",
+      "seconds": 138.48,
+      "line": "I'm a motherfuckin' starboy"
+    },
+    {
+      "time": "02:20.97",
+      "seconds": 140.97,
+      "line": "Let a nigga brag Pitt"
+    },
+    {
+      "time": "02:22.43",
+      "seconds": 142.43,
+      "line": "Legend of the fall took the year like a bandit"
+    },
+    {
+      "time": "02:24.80",
+      "seconds": 144.8,
+      "line": "Bought mama a crib and a brand new wagon"
+    },
+    {
+      "time": "02:27.33",
+      "seconds": 147.32999999999998,
+      "line": "Now she hit the grocery shop looking lavish"
+    },
+    {
+      "time": "02:30.10",
+      "seconds": 150.1,
+      "line": "Star Trek roof in that Wraith of Khan"
+    },
+    {
+      "time": "02:32.52",
+      "seconds": 152.52,
+      "line": "Girls get loose when they hear this song"
+    },
+    {
+      "time": "02:35.03",
+      "seconds": 155.03,
+      "line": "100 on the dash get me close to God"
+    },
+    {
+      "time": "02:37.54",
+      "seconds": 157.54,
+      "line": "We don't pray for love, we just pray for cars"
+    },
+    {
+      "time": "02:40.94",
+      "seconds": 160.94,
+      "line": "House so empty, need a centerpiece"
+    },
+    {
+      "time": "02:43.51",
+      "seconds": 163.51,
+      "line": "20 racks a table cut from ebony"
+    },
+    {
+      "time": "02:46.16",
+      "seconds": 166.16,
+      "line": "Cut that ivory into skinny pieces"
+    },
+    {
+      "time": "02:48.28",
+      "seconds": 168.28,
+      "line": "Then she clean it with her face man I love my baby"
+    },
+    {
+      "time": "02:51.26",
+      "seconds": 171.26,
+      "line": "You talking money, need a hearing aid"
+    },
+    {
+      "time": "02:53.89",
+      "seconds": 173.89,
+      "line": "You talking 'bout me, I don't see the shade"
+    },
+    {
+      "time": "02:56.47",
+      "seconds": 176.47,
+      "line": "Switch up my style, I take any lane"
+    },
+    {
+      "time": "02:58.45",
+      "seconds": 178.45,
+      "line": "I switch up my cup, I kill any pain"
+    },
+    {
+      "time": "03:01.99",
+      "seconds": 181.99,
+      "line": ""
+    },
+    {
+      "time": "03:04.98",
+      "seconds": 184.98,
+      "line": "Look what you've done"
+    },
+    {
+      "time": "03:07.95",
+      "seconds": 187.95,
+      "line": ""
+    },
+    {
+      "time": "03:10.14",
+      "seconds": 190.14,
+      "line": "I'm a motherfuckin' starboy"
+    },
+    {
+      "time": "03:13.26",
+      "seconds": 193.26,
+      "line": ""
+    },
+    {
+      "time": "03:15.42",
+      "seconds": 195.42,
+      "line": "Look what you've done"
+    },
+    {
+      "time": "03:20.12",
+      "seconds": 200.12,
+      "line": "I'm a motherfuckin' starboy"
+    },
+    {
+      "time": "03:23.43",
+      "seconds": 203.43,
+      "line": ""
+    },
+    {
+      "time": "03:25.88",
+      "seconds": 205.88,
+      "line": "Look what you've done"
+    },
+    {
+      "time": "03:28.63",
+      "seconds": 208.63,
+      "line": ""
+    },
+    {
+      "time": "03:30.87",
+      "seconds": 210.87,
+      "line": "I'm a motherfuckin' starboy"
+    },
+    {
+      "time": "03:33.97",
+      "seconds": 213.97,
+      "line": ""
+    },
+    {
+      "time": "03:36.24",
+      "seconds": 216.24,
+      "line": "Look what you've done"
+    },
+    {
+      "time": "03:41.06",
+      "seconds": 221.06,
+      "line": "I'm a motherfuckin' starboy"
+    },
+    {
+      "time": "03:43.24",
+      "seconds": 223.24,
+      "line": ""
+    }
+  ],
+  "plain_lyrics": "I'm tryna put you in the worst mood, ah\nP1 cleaner than your church shoes, ah\nMilli point two just to hurt you, ah\nAll red Lamb' just to tease you, ah\nNone of these toys on lease too, ah\nMade your whole year in a week too, yah\nMain bitch out your league too, ah\nSide bitch out of your league too, ah\n\nHouse so empty, need a centerpiece\n20 racks a table cut from ebony\nCut that ivory into skinny pieces\nThen she clean it with her face man I love my baby\nYou talking money, need a hearing aid\nYou talking bout me, I don't see the shade\nSwitch up my style, I take any lane\nI switch up my cup, I kill any pain\n\nLook what you've done\nI'm a motherfuckin' starboy\nLook what you've done\nI'm a motherfuckin' starboy\n\nEvery day a nigga try to test me, ah\nEvery day a nigga try to end me, ah\nPull off in that Roadster SV, ah\nPockets overweight, gettin' hefty, ah\nComing for the king, that's a far cry, ah\nI come alive in the fall time, I\nNo competition, I don't really listen\nI'm in the blue Mulsanne bumping New Edition\n\nHouse so empty, need a centerpiece\n20 racks a table cut from ebony\nCut that ivory into skinny pieces\nThen she clean it with her face man I love my baby\nYou talking money, need a hearing aid\nYou talking bout me, I don't see the shade\nSwitch up my style, I take any lane\nI switch up my cup, I kill any pain\n\nLook what you've done\nI'm a motherfuckin' starboy\nLook what you've done\nI'm a motherfuckin' starboy\n\nLet a nigga brag Pitt\nLegend of the fall took the year like a bandit\nBought mama a crib and a brand new wagon\nNow she hit the grocery shop looking lavish\nStar Trek roof in that Wraith of Khan\nGirls get loose when they hear this song\n100 on the dash get me close to God\nWe don't pray for love, we just pray for cars\n\nHouse so empty, need a centerpiece\n20 racks a table cut from ebony\nCut that ivory into skinny pieces\nThen she clean it with her face man I love my baby\nYou talking money, need a hearing aid\nYou talking 'bout me, I don't see the shade\nSwitch up my style, I take any lane\nI switch up my cup, I kill any pain\n\nLook what you've done\nI'm a motherfuckin' starboy\nLook what you've done\nI'm a motherfuckin' starboy\nLook what you've done\nI'm a motherfuckin' starboy\nLook what you've done\nI'm a motherfuckin' starboy"
+}

@@ -1,0 +1,348 @@
+{
+  "artist": "The Chainsmokers, Halsey",
+  "title": "Closer",
+  "has_timed": true,
+  "timed_lyrics": [
+    {
+      "time": "00:10.19",
+      "seconds": 10.19,
+      "line": "Hey, I was doing just fine before I met you"
+    },
+    {
+      "time": "00:14.59",
+      "seconds": 14.59,
+      "line": "I drink too much and that's an issue, but I'm okay"
+    },
+    {
+      "time": "00:20.36",
+      "seconds": 20.36,
+      "line": "Hey, you tell your friends it was nice to meet them"
+    },
+    {
+      "time": "00:24.96",
+      "seconds": 24.96,
+      "line": "But I hope I never see them again"
+    },
+    {
+      "time": "00:28.71",
+      "seconds": 28.71,
+      "line": ""
+    },
+    {
+      "time": "00:31.23",
+      "seconds": 31.23,
+      "line": "I know it breaks your heart"
+    },
+    {
+      "time": "00:32.94",
+      "seconds": 32.94,
+      "line": "Moved to the city in a broke-down car, and"
+    },
+    {
+      "time": "00:36.44",
+      "seconds": 36.44,
+      "line": "Four years, no calls"
+    },
+    {
+      "time": "00:38.02",
+      "seconds": 38.02,
+      "line": "Now you're looking pretty in a hotel bar"
+    },
+    {
+      "time": "00:40.77",
+      "seconds": 40.77,
+      "line": "And I-I-I can't stop"
+    },
+    {
+      "time": "00:45.28",
+      "seconds": 45.28,
+      "line": "No, I-I-I can't stop"
+    },
+    {
+      "time": "00:50.30",
+      "seconds": 50.3,
+      "line": "So, baby, pull me closer"
+    },
+    {
+      "time": "00:52.54",
+      "seconds": 52.54,
+      "line": "In the backseat of your Rover"
+    },
+    {
+      "time": "00:55.00",
+      "seconds": 55.0,
+      "line": "That I know you can't afford"
+    },
+    {
+      "time": "00:57.57",
+      "seconds": 57.57,
+      "line": "Bite that tattoo on your shoulder"
+    },
+    {
+      "time": "01:00.16",
+      "seconds": 60.16,
+      "line": "Pull the sheets right off the corner"
+    },
+    {
+      "time": "01:02.67",
+      "seconds": 62.67,
+      "line": "Of that mattress that you stole"
+    },
+    {
+      "time": "01:05.27",
+      "seconds": 65.27,
+      "line": "From your roommate back in Boulder"
+    },
+    {
+      "time": "01:07.63",
+      "seconds": 67.63,
+      "line": "We ain't ever getting older"
+    },
+    {
+      "time": "01:11.14",
+      "seconds": 71.14,
+      "line": ""
+    },
+    {
+      "time": "01:17.80",
+      "seconds": 77.8,
+      "line": "We ain't ever getting older"
+    },
+    {
+      "time": "01:20.90",
+      "seconds": 80.9,
+      "line": ""
+    },
+    {
+      "time": "01:20.94",
+      "seconds": 80.94,
+      "line": ""
+    },
+    {
+      "time": "01:27.83",
+      "seconds": 87.83,
+      "line": "We ain't ever getting older"
+    },
+    {
+      "time": "01:30.90",
+      "seconds": 90.9,
+      "line": "You look as good as the day I met you"
+    },
+    {
+      "time": "01:35.52",
+      "seconds": 95.52000000000001,
+      "line": "I forget just why I left you, I was insane"
+    },
+    {
+      "time": "01:41.13",
+      "seconds": 101.13,
+      "line": "Stay and play that Blink-182 song"
+    },
+    {
+      "time": "01:45.64",
+      "seconds": 105.64,
+      "line": "That we beat to death in Tucson, okay"
+    },
+    {
+      "time": "01:49.10",
+      "seconds": 109.1,
+      "line": ""
+    },
+    {
+      "time": "01:52.14",
+      "seconds": 112.14,
+      "line": "I know it breaks your heart"
+    },
+    {
+      "time": "01:53.71",
+      "seconds": 113.71000000000001,
+      "line": "Moved to the city in a broke-down car, and"
+    },
+    {
+      "time": "01:57.26",
+      "seconds": 117.25999999999999,
+      "line": "Four years, no call"
+    },
+    {
+      "time": "01:58.88",
+      "seconds": 118.88,
+      "line": "Now I'm looking pretty in a hotel bar"
+    },
+    {
+      "time": "02:01.56",
+      "seconds": 121.56,
+      "line": "And I-I-I can't stop"
+    },
+    {
+      "time": "02:06.09",
+      "seconds": 126.09,
+      "line": "No, I-I-I can't stop"
+    },
+    {
+      "time": "02:11.17",
+      "seconds": 131.17,
+      "line": "So, baby, pull me closer"
+    },
+    {
+      "time": "02:13.35",
+      "seconds": 133.35,
+      "line": "In the backseat of your Rover"
+    },
+    {
+      "time": "02:15.88",
+      "seconds": 135.88,
+      "line": "That I know you can't afford"
+    },
+    {
+      "time": "02:18.44",
+      "seconds": 138.44,
+      "line": "Bite that tattoo on your shoulder"
+    },
+    {
+      "time": "02:20.92",
+      "seconds": 140.92000000000002,
+      "line": "Pull the sheets right off the corner"
+    },
+    {
+      "time": "02:23.43",
+      "seconds": 143.43,
+      "line": "Of that mattress that you stole"
+    },
+    {
+      "time": "02:25.98",
+      "seconds": 145.98,
+      "line": "From your roommate back in Boulder"
+    },
+    {
+      "time": "02:28.47",
+      "seconds": 148.47,
+      "line": "We ain't ever getting older"
+    },
+    {
+      "time": "02:32.39",
+      "seconds": 152.39,
+      "line": ""
+    },
+    {
+      "time": "02:38.54",
+      "seconds": 158.54,
+      "line": "We ain't ever getting older"
+    },
+    {
+      "time": "02:42.09",
+      "seconds": 162.09,
+      "line": ""
+    },
+    {
+      "time": "02:48.76",
+      "seconds": 168.76,
+      "line": "We ain't ever getting older"
+    },
+    {
+      "time": "02:51.65",
+      "seconds": 171.65,
+      "line": "So, baby, pull me closer"
+    },
+    {
+      "time": "02:53.74",
+      "seconds": 173.74,
+      "line": "In the backseat of your Rover"
+    },
+    {
+      "time": "02:56.30",
+      "seconds": 176.3,
+      "line": "That I know you can't afford"
+    },
+    {
+      "time": "02:58.96",
+      "seconds": 178.96,
+      "line": "Bite that tattoo on your shoulder"
+    },
+    {
+      "time": "03:01.31",
+      "seconds": 181.31,
+      "line": "Pull the sheets right off the corner"
+    },
+    {
+      "time": "03:03.87",
+      "seconds": 183.87,
+      "line": "Of that mattress that you stole"
+    },
+    {
+      "time": "03:06.43",
+      "seconds": 186.43,
+      "line": "From your roommate back in Boulder"
+    },
+    {
+      "time": "03:08.98",
+      "seconds": 188.98,
+      "line": "We ain't ever getting older"
+    },
+    {
+      "time": "03:11.51",
+      "seconds": 191.51,
+      "line": "We ain't ever getting older"
+    },
+    {
+      "time": "03:13.84",
+      "seconds": 193.84,
+      "line": "No, we ain't ever getting older"
+    },
+    {
+      "time": "03:16.62",
+      "seconds": 196.62,
+      "line": "We ain't ever getting older"
+    },
+    {
+      "time": "03:18.71",
+      "seconds": 198.71,
+      "line": "No, we ain't ever getting older"
+    },
+    {
+      "time": "03:21.66",
+      "seconds": 201.66,
+      "line": "We ain't ever getting older"
+    },
+    {
+      "time": "03:24.06",
+      "seconds": 204.06,
+      "line": "We ain't ever getting older"
+    },
+    {
+      "time": "03:26.65",
+      "seconds": 206.65,
+      "line": "We ain't ever getting older"
+    },
+    {
+      "time": "03:28.81",
+      "seconds": 208.81,
+      "line": "No, we ain't ever getting older"
+    },
+    {
+      "time": "03:32.51",
+      "seconds": 212.51,
+      "line": ""
+    },
+    {
+      "time": "03:39.27",
+      "seconds": 219.27,
+      "line": "We ain't ever getting older"
+    },
+    {
+      "time": "03:43.04",
+      "seconds": 223.04,
+      "line": ""
+    },
+    {
+      "time": "03:49.12",
+      "seconds": 229.12,
+      "line": "No, we ain't ever getting older"
+    },
+    {
+      "time": "03:51.08",
+      "seconds": 231.07999999999998,
+      "line": ""
+    }
+  ],
+  "plain_lyrics": "Hey, I was doing just fine before I met you\nI drink too much and that's an issue, but I'm okay\nHey, you tell your friends it was nice to meet them\nBut I hope I never see them again\n\nI know it breaks your heart\nMoved to the city in a broke-down car, and\nFour years, no calls\nNow you're looking pretty in a hotel bar\nAnd I-I-I can't stop\nNo, I-I-I can't stop\n\nSo, baby, pull me closer\nIn the backseat of your Rover\nThat I know you can't afford\nBite that tattoo on your shoulder\nPull the sheets right off the corner\nOf that mattress that you stole\nFrom your roommate back in Boulder\nWe ain't ever getting older\n\nWe ain't ever getting older\n\nWe ain't ever getting older\n\nYou look as good as the day I met you\nI forget just why I left you, I was insane\nStay and play that Blink-182 song\nThat we beat to death in Tucson, okay\n\nI know it breaks your heart\nMoved to the city in a broke-down car, and\nFour years, no call\nNow I'm looking pretty in a hotel bar\nAnd I-I-I can't stop\nNo, I-I-I can't stop\n\nSo, baby, pull me closer\nIn the backseat of your Rover\nThat I know you can't afford\nBite that tattoo on your shoulder\nPull the sheets right off the corner\nOf that mattress that you stole\nFrom your roommate back in Boulder\nWe ain't ever getting older\n\nWe ain't ever getting older\n\nWe ain't ever getting older\n\nSo, baby, pull me closer\nIn the backseat of your Rover\nThat I know you can't afford\nBite that tattoo on your shoulder\nPull the sheets right off the corner\nOf that mattress that you stole\nFrom your roommate back in Boulder\nWe ain't ever getting older\nWe ain't ever getting older\nNo, we ain't ever getting older\nWe ain't ever getting older\nNo, we ain't ever getting older\nWe ain't ever getting older\nWe ain't ever getting older\nWe ain't ever getting older\n\nNo, we ain't ever getting older\n\nWe ain't ever getting older\n\nNo, we ain't ever getting older"
+}

@@ -1,0 +1,298 @@
+{
+  "artist": "Alan Walker, Sabrina Carpenter, Farruko",
+  "title": "On My Way",
+  "has_timed": true,
+  "timed_lyrics": [
+    {
+      "time": "00:00.01",
+      "seconds": 0.01,
+      "line": "I'm sorry but"
+    },
+    {
+      "time": "00:02.67",
+      "seconds": 2.67,
+      "line": "Don't wanna talk"
+    },
+    {
+      "time": "00:04.22",
+      "seconds": 4.22,
+      "line": "I need a moment before I go"
+    },
+    {
+      "time": "00:08.40",
+      "seconds": 8.4,
+      "line": "It's nothing personal"
+    },
+    {
+      "time": "00:11.23",
+      "seconds": 11.23,
+      "line": "I draw the blinds"
+    },
+    {
+      "time": "00:13.52",
+      "seconds": 13.52,
+      "line": "They don't need to see me cry"
+    },
+    {
+      "time": "00:16.27",
+      "seconds": 16.27,
+      "line": "'Cause even if they understand"
+    },
+    {
+      "time": "00:19.29",
+      "seconds": 19.29,
+      "line": "They don't understand"
+    },
+    {
+      "time": "00:23.10",
+      "seconds": 23.1,
+      "line": "So then when I'm finished"
+    },
+    {
+      "time": "00:24.71",
+      "seconds": 24.71,
+      "line": "I'm all 'bout my business"
+    },
+    {
+      "time": "00:26.22",
+      "seconds": 26.22,
+      "line": "And ready to save the world"
+    },
+    {
+      "time": "00:28.72",
+      "seconds": 28.72,
+      "line": "I'm takin' my misery"
+    },
+    {
+      "time": "00:30.60",
+      "seconds": 30.6,
+      "line": "Make it my bitch"
+    },
+    {
+      "time": "00:31.59",
+      "seconds": 31.59,
+      "line": "Can't be everyone's favourite girl"
+    },
+    {
+      "time": "00:34.26",
+      "seconds": 34.26,
+      "line": "So, take aim and fire away"
+    },
+    {
+      "time": "00:37.46",
+      "seconds": 37.46,
+      "line": "I've never been so wide awake"
+    },
+    {
+      "time": "00:40.24",
+      "seconds": 40.24,
+      "line": "No, nobody but me can keep me safe"
+    },
+    {
+      "time": "00:44.01",
+      "seconds": 44.01,
+      "line": "And I'm on my way"
+    },
+    {
+      "time": "00:45.77",
+      "seconds": 45.77,
+      "line": "The blood moon is on the rise"
+    },
+    {
+      "time": "00:48.41",
+      "seconds": 48.41,
+      "line": "The fire burning in my eyes"
+    },
+    {
+      "time": "00:51.62",
+      "seconds": 51.62,
+      "line": "No, nobody but me can keep me safe"
+    },
+    {
+      "time": "00:55.44",
+      "seconds": 55.44,
+      "line": "And I'm on my way"
+    },
+    {
+      "time": "00:58.65",
+      "seconds": 58.65,
+      "line": ""
+    },
+    {
+      "time": "01:18.94",
+      "seconds": 78.94,
+      "line": "Lo siento mucho (Farru)"
+    },
+    {
+      "time": "01:21.72",
+      "seconds": 81.72,
+      "line": "Pero me voy (eh)"
+    },
+    {
+      "time": "01:24.55",
+      "seconds": 84.55,
+      "line": "Porque a tu lado me di cuenta que nada soy (eh-eh)"
+    },
+    {
+      "time": "01:30.08",
+      "seconds": 90.08,
+      "line": "Y me cansé de luchar y de guerrear en vano"
+    },
+    {
+      "time": "01:32.73",
+      "seconds": 92.72999999999999,
+      "line": "De estar en la línea de fuego y de meter la mano"
+    },
+    {
+      "time": "01:35.76",
+      "seconds": 95.75999999999999,
+      "line": "Acepto mis errores, también soy humano"
+    },
+    {
+      "time": "01:38.65",
+      "seconds": 98.65,
+      "line": "Y tú no ve que lo hago porque te amo (pum-pum-pum-pum)"
+    },
+    {
+      "time": "01:41.79",
+      "seconds": 101.78999999999999,
+      "line": "Pero ya (ya)"
+    },
+    {
+      "time": "01:43.63",
+      "seconds": 103.63,
+      "line": "No tengo más na que hacer aquí (aquí)"
+    },
+    {
+      "time": "01:46.56",
+      "seconds": 106.56,
+      "line": "Me voy, llegó la hora de partir (partir)"
+    },
+    {
+      "time": "01:49.17",
+      "seconds": 109.17,
+      "line": "De mi propio camino, seguir lejos de ti"
+    },
+    {
+      "time": "01:53.45",
+      "seconds": 113.45,
+      "line": "So, take aim and fire away"
+    },
+    {
+      "time": "01:56.56",
+      "seconds": 116.56,
+      "line": "I've never been so wide awake"
+    },
+    {
+      "time": "01:59.30",
+      "seconds": 119.3,
+      "line": "No, nobody but me can keep me safe"
+    },
+    {
+      "time": "02:03.17",
+      "seconds": 123.17,
+      "line": "And I'm on my way"
+    },
+    {
+      "time": "02:04.73",
+      "seconds": 124.73,
+      "line": "The blood moon is on the rise (is on the rise, na-na)"
+    },
+    {
+      "time": "02:07.30",
+      "seconds": 127.3,
+      "line": "The fire burning in my eyes (the fire burning in my eyes, na)"
+    },
+    {
+      "time": "02:10.67",
+      "seconds": 130.67,
+      "line": "No, nobody but me can keep me safe"
+    },
+    {
+      "time": "02:14.35",
+      "seconds": 134.35,
+      "line": "And I'm on my way"
+    },
+    {
+      "time": "02:17.58",
+      "seconds": 137.57999999999998,
+      "line": ""
+    },
+    {
+      "time": "02:25.93",
+      "seconds": 145.93,
+      "line": "(I'm on my way)"
+    },
+    {
+      "time": "02:27.81",
+      "seconds": 147.81,
+      "line": "(Ever... everybody keep me safe)"
+    },
+    {
+      "time": "02:33.16",
+      "seconds": 153.16,
+      "line": "(Ever... everybody keep me safe)"
+    },
+    {
+      "time": "02:38.51",
+      "seconds": 158.51,
+      "line": "(Ever... everybody keep me safe)"
+    },
+    {
+      "time": "02:44.17",
+      "seconds": 164.17000000000002,
+      "line": "(Ever... everybody)"
+    },
+    {
+      "time": "02:48.11",
+      "seconds": 168.11,
+      "line": "(Everybody on my way)"
+    },
+    {
+      "time": "02:49.76",
+      "seconds": 169.76,
+      "line": "So, take aim and fire away"
+    },
+    {
+      "time": "02:52.88",
+      "seconds": 172.88,
+      "line": "I've never been so wide awake"
+    },
+    {
+      "time": "02:55.99",
+      "seconds": 175.99,
+      "line": "No, nobody but me can keep me safe"
+    },
+    {
+      "time": "02:59.67",
+      "seconds": 179.67000000000002,
+      "line": "And I'm on my way"
+    },
+    {
+      "time": "03:01.20",
+      "seconds": 181.2,
+      "line": "The blood moon is on the rise"
+    },
+    {
+      "time": "03:03.93",
+      "seconds": 183.93,
+      "line": "The fire burning in my eyes"
+    },
+    {
+      "time": "03:07.21",
+      "seconds": 187.21,
+      "line": "No, nobody but me can keep me safe"
+    },
+    {
+      "time": "03:10.81",
+      "seconds": 190.81,
+      "line": "And I'm on my way"
+    },
+    {
+      "time": "03:12.13",
+      "seconds": 192.13,
+      "line": ""
+    }
+  ],
+  "plain_lyrics": "I'm sorry but\nDon't wanna talk\nI need a moment before I go\nIt's nothing personal\n\nI draw the blinds\nThey don't need to see me cry\n'Cause even if they understand\nThey don't understand\n\nSo then when I'm finished\nI'm all 'bout my business\nAnd ready to save the world\nI'm takin' my misery\nMake it my bitch\nCan't be everyone's favourite girl\n\nSo, take aim and fire away\nI've never been so wide awake\nNo, nobody but me can keep me safe\nAnd I'm on my way\n\nThe blood moon is on the rise\nThe fire burning in my eyes\nNo, nobody but me can keep me safe\nAnd I'm on my way\n\nLo siento mucho (Farru)\nPero me voy (eh)\nPorque a tu lado me di cuenta que nada soy (eh-eh)\n\nY me cansé de luchar y de guerrear en vano\nDe estar en la línea de fuego y de meter la mano\nAcepto mis errores, también soy humano\nY tú no ve que lo hago porque te amo (pum-pum-pum-pum)\n\nPero ya (ya)\nNo tengo más na que hacer aquí (aquí)\nMe voy, llegó la hora de partir (partir)\nDe mi propio camino, seguir lejos de ti\n\nSo, take aim and fire away\nI've never been so wide awake\nNo, nobody but me can keep me safe\nAnd I'm on my way\n\nThe blood moon is on the rise (is on the rise, na-na)\nThe fire burning in my eyes (the fire burning in my eyes, na)\nNo, nobody but me can keep me safe\nAnd I'm on my way\n\n(I'm on my way)\n(Ever... everybody keep me safe)\n(Ever... everybody keep me safe)\n(Ever... everybody keep me safe)\n(Ever... everybody)\n(Everybody on my way)\n\nSo, take aim and fire away\nI've never been so wide awake\nNo, nobody but me can keep me safe\nAnd I'm on my way\n\nThe blood moon is on the rise\nThe fire burning in my eyes\nNo, nobody but me can keep me safe\nAnd I'm on my way"
+}
