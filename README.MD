@@ -104,7 +104,7 @@ cd spotify-live-lyrics
 pip install -r requirements.txt
 ```
 
-### 🟢 Setup & Quick Start
+#### 🟢 Setup & Quick Start
 
 1. Install Dependencies
 
@@ -183,7 +183,7 @@ Converted to JSON:
 "line": "Some lyric"\
 }
 
-### 🔁 Spotify Token Handling
+#### 🔁 Spotify Token Handling
 
 You reauthorize only when:
 
@@ -193,7 +193,7 @@ refresh token fails
 
 Spotify revokes access
 
-### ⚡ Real-Time Optimizations
+#### ⚡ Real-Time Optimizations
 
 O(1) timestamp lookup
 
@@ -203,7 +203,7 @@ instant cancel on track change
 
 zero playback-loop delay
 
-### 🛠 Troubleshooting
+#### 🛠 Troubleshooting
 Lyrics not found
 
 LRCLIB metadata may differ. Fuzzy matching helps.
@@ -218,3 +218,7 @@ Console doesn’t clear
 
 Windows: cls \
 Linux/macOS: clear
+
+## Futher Updates
+
+I am working on Integrating Floating Transparent Window which will allow users to see the current lyrics of the song being played. It is meant to be distraction free space for users who are working and just want to sing to the song without being distracted with the full size window. The window will be draggable. Can be Zoomed In Zoomed Out as per the users wish and will also have close option. This Takes us to path of Changing the Way of GUI. Soon we will also entertain Distraction Free Chatting Options Which means the message will just popup in a transparent screen over your Screen and You can type on it without changing your window and just reply within seconds without being distracted. A new Awesome way to Approach Futuristic GUI. The Goal Is to make the GUI of Desktop Better and Distraction Free which will maximize the productivity of the Users and Entertain them along.
